@@ -1970,6 +1970,15 @@ input, select, textarea {
 					background: #e1b89b;
 				}
 
+			.icon.circle.fa-linkedin {
+				background:  #1a8cff;
+				color: #fff;
+			}
+
+				.icon.circle.fa-linkedin:hover {
+					background: #3399ff;
+				}
+
 			.icon.circle.fa-dribbble {
 				background: #da83ae;
 				color: #fff;
