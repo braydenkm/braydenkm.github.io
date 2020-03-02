@@ -2006,7 +2006,12 @@ input, select, textarea {
 
 /* Buttons */
 
+	.horiz_line li {
+		display: inline;
+	}
+
 	ul.buttons {
+		display: inline-block;
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
